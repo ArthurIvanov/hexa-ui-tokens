@@ -21,7 +21,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_100"
+                "name": "neutral/neutral_300"
               }
             },
             {
@@ -10427,7 +10427,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_850"
+                "name": "neutral/neutral_100"
               }
             },
             {
