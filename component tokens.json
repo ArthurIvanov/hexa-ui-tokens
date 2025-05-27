@@ -3717,6 +3717,14 @@
               "type": "color",
               "isAlias": true,
               "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "divider/bg/minimal",
+              "type": "color",
+              "isAlias": true,
+              "value": {
                 "name": "neutral/neutral_300"
               }
             },
@@ -5861,7 +5869,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -5893,7 +5901,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_0"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -5941,7 +5949,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -5973,7 +5981,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6021,7 +6029,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6053,7 +6061,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6101,7 +6109,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6133,7 +6141,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6181,7 +6189,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6213,7 +6221,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6261,7 +6269,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6293,7 +6301,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6341,7 +6349,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6373,7 +6381,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6421,7 +6429,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6453,7 +6461,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6501,7 +6509,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6533,7 +6541,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6581,7 +6589,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6613,7 +6621,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6661,7 +6669,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6693,7 +6701,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6797,7 +6805,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -6813,7 +6821,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -10369,19 +10377,19 @@
               }
             },
             {
-              "name": "tree/icon/dnd",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
               "name": "tree/text/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_850"
+              }
+            },
+            {
+              "name": "tree/icon/dnd",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
               }
             },
             {
@@ -11079,7 +11087,7 @@
               "value": "#FFFFFF"
             },
             {
-              "name": "code_compare/bg/base",
+              "name": "сode_сompare/bg/base",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11087,7 +11095,7 @@
               }
             },
             {
-              "name": "code_compare/border",
+              "name": "сode_сompare/border",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11095,7 +11103,7 @@
               }
             },
             {
-              "name": "code_compare/bg/controls",
+              "name": "сode_сompare/bg/controls",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11103,7 +11111,7 @@
               }
             },
             {
-              "name": "code_compare/text/primary",
+              "name": "сode_сompare/text/primary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11111,7 +11119,7 @@
               }
             },
             {
-              "name": "code_compare/icon/primary",
+              "name": "сode_сompare/icon/primary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11119,7 +11127,7 @@
               }
             },
             {
-              "name": "code_compare/icon/secondary",
+              "name": "сode_сompare/icon/secondary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11127,7 +11135,7 @@
               }
             },
             {
-              "name": "code_compare/text/secondary",
+              "name": "сode_сompare/text/secondary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11135,7 +11143,7 @@
               }
             },
             {
-              "name": "code_compare/text/changes_added",
+              "name": "сode_сompare/text/changes_added",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11143,7 +11151,7 @@
               }
             },
             {
-              "name": "code_compare/text/changes_removed",
+              "name": "сode_сompare/text/changes_removed",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11151,7 +11159,7 @@
               }
             },
             {
-              "name": "code_compare_line/unselected/bg/hover",
+              "name": "сode_сompare_line/unselected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11159,7 +11167,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/added",
+              "name": "сode_сompare_line_modified/bg/added",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11167,7 +11175,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/removed",
+              "name": "сode_сompare_line_modified/bg/removed",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11175,7 +11183,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/added_change",
+              "name": "сode_сompare_line_modified/bg/added_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11183,7 +11191,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/removed_change",
+              "name": "сode_сompare_line_modified/bg/removed_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11191,7 +11199,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/border/added_change",
+              "name": "сode_сompare_line_modified/border/added_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11199,7 +11207,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/border/removed_change",
+              "name": "сode_сompare_line_modified/border/removed_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11207,7 +11215,7 @@
               }
             },
             {
-              "name": "code_compare_line/unselected/bg/active",
+              "name": "сode_сompare_line/unselected/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11215,7 +11223,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/enabled",
+              "name": "сode_сompare_line/selected/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11223,7 +11231,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/border_enabled",
+              "name": "сode_сompare_line/selected/border_enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11231,7 +11239,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/hover",
+              "name": "сode_сompare_line/selected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -11239,43 +11247,11 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/active",
+              "name": "сode_сompare_line/selected/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "marina/marina_200"
-              }
-            },
-            {
-              "name": "panel/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_0"
-              }
-            },
-            {
-              "name": "panel/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_850"
-              }
-            },
-            {
-              "name": "panel/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_300"
-              }
-            },
-            {
-              "name": "panel/border/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_400"
               }
             }
           ]
@@ -14992,6 +14968,14 @@
               "type": "color",
               "isAlias": true,
               "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "divider/bg/minimal",
+              "type": "color",
+              "isAlias": true,
+              "value": {
                 "name": "neutral/neutral_600"
               }
             },
@@ -17168,7 +17152,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/a/neutral_a_0"
+                "name": "neutral/aw/neutral_aw_800"
               }
             },
             {
@@ -17488,7 +17472,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/aw/neutral_aw_800"
+                "name": "neutral/neutral_700"
               }
             },
             {
@@ -21644,19 +21628,19 @@
               }
             },
             {
-              "name": "tree/icon/dnd",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
               "name": "tree/text/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "tree/icon/dnd",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
               }
             },
             {
@@ -22354,7 +22338,7 @@
               "value": "#FFFFFF"
             },
             {
-              "name": "code_compare/bg/base",
+              "name": "сode_сompare/bg/base",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22362,7 +22346,7 @@
               }
             },
             {
-              "name": "code_compare/border",
+              "name": "сode_сompare/border",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22370,7 +22354,7 @@
               }
             },
             {
-              "name": "code_compare/bg/controls",
+              "name": "сode_сompare/bg/controls",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22378,7 +22362,7 @@
               }
             },
             {
-              "name": "code_compare/text/primary",
+              "name": "сode_сompare/text/primary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22386,7 +22370,7 @@
               }
             },
             {
-              "name": "code_compare/icon/primary",
+              "name": "сode_сompare/icon/primary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22394,7 +22378,7 @@
               }
             },
             {
-              "name": "code_compare/icon/secondary",
+              "name": "сode_сompare/icon/secondary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22402,7 +22386,7 @@
               }
             },
             {
-              "name": "code_compare/text/secondary",
+              "name": "сode_сompare/text/secondary",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22410,7 +22394,7 @@
               }
             },
             {
-              "name": "code_compare/text/changes_added",
+              "name": "сode_сompare/text/changes_added",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22418,7 +22402,7 @@
               }
             },
             {
-              "name": "code_compare/text/changes_removed",
+              "name": "сode_сompare/text/changes_removed",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22426,7 +22410,7 @@
               }
             },
             {
-              "name": "code_compare_line/unselected/bg/hover",
+              "name": "сode_сompare_line/unselected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22434,7 +22418,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/added",
+              "name": "сode_сompare_line_modified/bg/added",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22442,7 +22426,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/removed",
+              "name": "сode_сompare_line_modified/bg/removed",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22450,7 +22434,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/added_change",
+              "name": "сode_сompare_line_modified/bg/added_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22458,7 +22442,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/bg/removed_change",
+              "name": "сode_сompare_line_modified/bg/removed_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22466,7 +22450,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/border/added_change",
+              "name": "сode_сompare_line_modified/border/added_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22474,7 +22458,7 @@
               }
             },
             {
-              "name": "code_compare_line_modified/border/removed_change",
+              "name": "сode_сompare_line_modified/border/removed_change",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22482,7 +22466,7 @@
               }
             },
             {
-              "name": "code_compare_line/unselected/bg/active",
+              "name": "сode_сompare_line/unselected/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22490,7 +22474,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/enabled",
+              "name": "сode_сompare_line/selected/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22498,7 +22482,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/border_enabled",
+              "name": "сode_сompare_line/selected/border_enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22506,7 +22490,7 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/hover",
+              "name": "сode_сompare_line/selected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -22514,43 +22498,11 @@
               }
             },
             {
-              "name": "code_compare_line/selected/bg/active",
+              "name": "сode_сompare_line/selected/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "marina/marina_700"
-              }
-            },
-            {
-              "name": "panel/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_850"
-              }
-            },
-            {
-              "name": "panel/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "panel/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_600"
-              }
-            },
-            {
-              "name": "panel/border/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_600"
               }
             }
           ]
@@ -22670,369 +22622,6 @@
               "value": {
                 "name": "neutral/aw/neutral_aw_0"
               }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Language",
-      "modes": [
-        {
-          "name": "EN",
-          "variables": [
-            {
-              "name": "Button/Cancel",
-              "type": "string",
-              "isAlias": false,
-              "value": "Cancel"
-            },
-            {
-              "name": "Expand/Expand",
-              "type": "string",
-              "isAlias": false,
-              "value": "Expand"
-            },
-            {
-              "name": "Input select/Select",
-              "type": "string",
-              "isAlias": false,
-              "value": "Select"
-            },
-            {
-              "name": "Pagination/Elements on page",
-              "type": "string",
-              "isAlias": false,
-              "value": "10 on page"
-            },
-            {
-              "name": "Pagination/Total",
-              "type": "string",
-              "isAlias": false,
-              "value": "Tolal:"
-            },
-            {
-              "name": "Pagination/Selected",
-              "type": "string",
-              "isAlias": false,
-              "value": "Selected:"
-            },
-            {
-              "name": "Input date & time picker/Month",
-              "type": "string",
-              "isAlias": false,
-              "value": "Aug"
-            },
-            {
-              "name": "Input search/Search",
-              "type": "string",
-              "isAlias": false,
-              "value": "Search"
-            },
-            {
-              "name": "Table cell header/Sort",
-              "type": "string",
-              "isAlias": false,
-              "value": "Sort"
-            },
-            {
-              "name": "Table cell header/Ascending",
-              "type": "string",
-              "isAlias": false,
-              "value": "Ascending"
-            },
-            {
-              "name": "Table cell header/Descending",
-              "type": "string",
-              "isAlias": false,
-              "value": "Descending"
-            },
-            {
-              "name": "Table cell header/Filter",
-              "type": "string",
-              "isAlias": false,
-              "value": "Filter"
-            },
-            {
-              "name": "Table cell header/Reset filter",
-              "type": "string",
-              "isAlias": false,
-              "value": "Reset filter"
-            },
-            {
-              "name": "Tabs/More",
-              "type": "string",
-              "isAlias": false,
-              "value": "More"
-            },
-            {
-              "name": "Tabs/Add tab",
-              "type": "string",
-              "isAlias": false,
-              "value": "Add tab"
-            },
-            {
-              "name": "Wizard/Next",
-              "type": "string",
-              "isAlias": false,
-              "value": "Next"
-            },
-            {
-              "name": "Wizard/Back",
-              "type": "string",
-              "isAlias": false,
-              "value": "Back"
-            },
-            {
-              "name": "Uploader/Upload",
-              "type": "string",
-              "isAlias": false,
-              "value": "Upload"
-            },
-            {
-              "name": "Uploader/Upload a file or drag it over here",
-              "type": "string",
-              "isAlias": false,
-              "value": "Upload a file or drag it over here"
-            },
-            {
-              "name": "Uploader/Uploaded",
-              "type": "string",
-              "isAlias": false,
-              "value": "Files to upload: 2. Total size: 800 MB."
-            },
-            {
-              "name": "Uploader/Uploading",
-              "type": "string",
-              "isAlias": false,
-              "value": "Uploading..."
-            },
-            {
-              "name": "Uploader/40MB",
-              "type": "string",
-              "isAlias": false,
-              "value": "40 MB"
-            },
-            {
-              "name": "Uploader/12 files could not be uploaded due to exceeding the maximum file limit",
-              "type": "string",
-              "isAlias": false,
-              "value": "12 files could not be uploaded due to exceeding the maximum file limit"
-            },
-            {
-              "name": "Uploader/File could not be uploaded due to network error",
-              "type": "string",
-              "isAlias": false,
-              "value": "File could not be uploaded due to network error"
-            },
-            {
-              "name": "Uploader/12 files could not be uploaded due to exceeding the allowable file size Show files",
-              "type": "string",
-              "isAlias": false,
-              "value": "12 files could not be uploaded due to exceeding the allowable file size. Show files"
-            },
-            {
-              "name": "Placeholder/No data",
-              "type": "string",
-              "isAlias": false,
-              "value": "No data"
-            },
-            {
-              "name": "Placeholder/Access denied",
-              "type": "string",
-              "isAlias": false,
-              "value": "String value"
-            },
-            {
-              "name": "Placeholder/Page not found",
-              "type": "string",
-              "isAlias": false,
-              "value": "String value"
-            },
-            {
-              "name": "Placeholder/Internal server error",
-              "type": "string",
-              "isAlias": false,
-              "value": "String value"
-            }
-          ]
-        },
-        {
-          "name": "RU",
-          "variables": [
-            {
-              "name": "Button/Cancel",
-              "type": "string",
-              "isAlias": false,
-              "value": "Отмена"
-            },
-            {
-              "name": "Expand/Expand",
-              "type": "string",
-              "isAlias": false,
-              "value": "Развернуть"
-            },
-            {
-              "name": "Input select/Select",
-              "type": "string",
-              "isAlias": false,
-              "value": "Выберите"
-            },
-            {
-              "name": "Pagination/Elements on page",
-              "type": "string",
-              "isAlias": false,
-              "value": "10 на странице"
-            },
-            {
-              "name": "Pagination/Total",
-              "type": "string",
-              "isAlias": false,
-              "value": "Всего:"
-            },
-            {
-              "name": "Pagination/Selected",
-              "type": "string",
-              "isAlias": false,
-              "value": "Выбрано:"
-            },
-            {
-              "name": "Input date & time picker/Month",
-              "type": "string",
-              "isAlias": false,
-              "value": "Авг"
-            },
-            {
-              "name": "Input search/Search",
-              "type": "string",
-              "isAlias": false,
-              "value": "Поиск"
-            },
-            {
-              "name": "Table cell header/Sort",
-              "type": "string",
-              "isAlias": false,
-              "value": "Сортировать"
-            },
-            {
-              "name": "Table cell header/Ascending",
-              "type": "string",
-              "isAlias": false,
-              "value": "По возрастанию"
-            },
-            {
-              "name": "Table cell header/Descending",
-              "type": "string",
-              "isAlias": false,
-              "value": "По убыванию"
-            },
-            {
-              "name": "Table cell header/Filter",
-              "type": "string",
-              "isAlias": false,
-              "value": "Фильтр"
-            },
-            {
-              "name": "Table cell header/Reset filter",
-              "type": "string",
-              "isAlias": false,
-              "value": "Сбросить фильтр"
-            },
-            {
-              "name": "Tabs/More",
-              "type": "string",
-              "isAlias": false,
-              "value": "Ещё"
-            },
-            {
-              "name": "Tabs/Add tab",
-              "type": "string",
-              "isAlias": false,
-              "value": "Добавить вкладку"
-            },
-            {
-              "name": "Wizard/Next",
-              "type": "string",
-              "isAlias": false,
-              "value": "Далее"
-            },
-            {
-              "name": "Wizard/Back",
-              "type": "string",
-              "isAlias": false,
-              "value": "Назад"
-            },
-            {
-              "name": "Uploader/Upload",
-              "type": "string",
-              "isAlias": false,
-              "value": "Загрузить"
-            },
-            {
-              "name": "Uploader/Upload a file or drag it over here",
-              "type": "string",
-              "isAlias": false,
-              "value": "Загрузите файл или перетащите его сюда"
-            },
-            {
-              "name": "Uploader/Uploaded",
-              "type": "string",
-              "isAlias": false,
-              "value": "String value"
-            },
-            {
-              "name": "Uploader/Uploading",
-              "type": "string",
-              "isAlias": false,
-              "value": "Загрузка..."
-            },
-            {
-              "name": "Uploader/40MB",
-              "type": "string",
-              "isAlias": false,
-              "value": "40 МБ"
-            },
-            {
-              "name": "Uploader/12 files could not be uploaded due to exceeding the maximum file limit",
-              "type": "string",
-              "isAlias": false,
-              "value": "Из-за превышения ограничения не удалось загрузить файлов: 12"
-            },
-            {
-              "name": "Uploader/File could not be uploaded due to network error",
-              "type": "string",
-              "isAlias": false,
-              "value": "Не удалось загрузить файл из-за ошибки сети"
-            },
-            {
-              "name": "Uploader/12 files could not be uploaded due to exceeding the allowable file size Show files",
-              "type": "string",
-              "isAlias": false,
-              "value": "Из-за превышения допустимого размера не удалось загрузить файлов: 12. Просмотреть файлы"
-            },
-            {
-              "name": "Placeholder/No data",
-              "type": "string",
-              "isAlias": false,
-              "value": "Нет данных"
-            },
-            {
-              "name": "Placeholder/Access denied",
-              "type": "string",
-              "isAlias": false,
-              "value": "Доступ запрещен"
-            },
-            {
-              "name": "Placeholder/Page not found",
-              "type": "string",
-              "isAlias": false,
-              "value": "Страница не найдена"
-            },
-            {
-              "name": "Placeholder/Internal server error",
-              "type": "string",
-              "isAlias": false,
-              "value": "Внутренняя ошибка сервера"
             }
           ]
         }
