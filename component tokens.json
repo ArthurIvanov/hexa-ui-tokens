@@ -2733,15 +2733,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "input_code_viewer/bg/highlight_disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_50"
+                "name": "neutral/neutral_250"
               }
             },
             {
@@ -5801,7 +5793,7 @@
               }
             },
             {
-              "name": "segmented_button/border/enabled",
+              "name": "segmented_button/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -5809,7 +5801,7 @@
               }
             },
             {
-              "name": "segmented_button/border/disabled",
+              "name": "segmented_button/bg/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -5817,7 +5809,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/bg/enabled",
+              "name": "segmented_button_radio_item/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -5825,355 +5817,51 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/enabled",
+              "name": "segmented_button_checkbox_item/unselected/text",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "marina/marina_50"
+                "name": "neutral/neutral_650"
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/hover",
+              "name": "segmented_button_checkbox_item/unselected/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "marina/marina_100"
+                "name": "neutral/neutral_400"
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/active",
+              "name": "segmented_button_checkbox_item/unselected/icon",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "marina/marina_200"
+                "name": "neutral/neutral_650"
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/disabled",
+              "name": "segmented_button_checkbox_item/unselected/icon_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/a/neutral_a_150"
+                "name": "neutral/neutral_400"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/red/bg/enabled",
+              "name": "segmented_button_checkbox_item/unselected/border",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "red/red_50"
+                "name": "neutral/neutral_350"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/red/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/icon/icon",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/border/disabled",
+              "name": "segmented_button_checkbox_item/unselected/border_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
               }
             },
             {
@@ -6185,299 +5873,11 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/unselected/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_350"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
               "name": "segmented_button_checkbox_item/unselected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
               }
             },
             {
@@ -6489,166 +5889,6 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_50"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_600"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_100"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
               "name": "segmented_button_checkbox_item/unselected/bg/disabled",
               "type": "color",
               "isAlias": true,
@@ -6657,37 +5897,15 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/Color",
-              "type": "color",
-              "isAlias": false,
-              "value": "#FFFFFF"
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/enabled",
+              "name": "segmented_button_checkbox_item/red/text",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_100"
+                "name": "red/red_600"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_550"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_550"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/border/enabled",
+              "name": "segmented_button_checkbox_item/red/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6695,7 +5913,31 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/border/disabled",
+              "name": "segmented_button_checkbox_item/red/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/red/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/red/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/red/border_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6703,143 +5945,31 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/icon/disabled",
+              "name": "segmented_button_checkbox_item/red/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_400"
+                "name": "red/red_50"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/text/disabled",
+              "name": "segmented_button_checkbox_item/red/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_400"
+                "name": "red/red_100"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/hover",
+              "name": "segmented_button_checkbox_item/red/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_150"
+                "name": "red/red_200"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_200"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_150"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_100"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_150"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_0"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_600"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_600"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_350"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/border/disabled",
+              "name": "segmented_button_checkbox_item/red/bg/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6847,7 +5977,439 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/enabled",
+              "name": "segmented_button_checkbox_item/orange/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/border",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6855,7 +6417,655 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/hover",
+              "name": "segmented_button_checkbox_item/marina/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_600"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_50"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_150"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_200"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_450"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_invalid_status",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_450"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/border_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/a/neutral_a_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/enabled_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_0"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/hover_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_100"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/active_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_150"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_100"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_150"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_0"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_50"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_100"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_200"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/a/neutral_a_100"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_600"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_200"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/hover_selected",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6863,7 +7073,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/active",
+              "name": "segmented_button_radio_item/border/active_selected",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -6871,11 +7081,19 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/disabled",
+              "name": "segmented_button_radio_item/border/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/a/neutral_a_100"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/a/neutral_a_100"
               }
             },
             {
@@ -10837,13 +11055,13 @@
               "value": "#FFFFFF"
             },
             {
-              "name": "node/ksc/counter/border/enabled",
+              "name": "node/ksc/counter/bg/enabled",
               "type": "color",
               "isAlias": false,
               "value": "#FFFFFF"
             },
             {
-              "name": "node/ksc/counter/bg/enabled",
+              "name": "node/ksc/counter/border/enabled",
               "type": "color",
               "isAlias": false,
               "value": "#FFFFFF"
@@ -11058,102 +11276,6 @@
               "isAlias": true,
               "value": {
                 "name": "marina/marina_400"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/valid",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_500"
-              }
-            },
-            {
-              "name": "licence_card/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_850"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/warning",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_500"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_500"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/expired",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "licence_card/text/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_500"
-              }
-            },
-            {
-              "name": "licence_card/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "licence_card/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_0"
-              }
-            },
-            {
-              "name": "licence_card/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_300"
-              }
-            },
-            {
-              "name": "licence_card/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_850"
-              }
-            },
-            {
-              "name": "licence_card/icon/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_500"
-              }
-            },
-            {
-              "name": "licence_card/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
               }
             }
           ]
@@ -13886,15 +14008,7 @@
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/aw/neutral_aw_750"
-              }
-            },
-            {
-              "name": "input_code_viewer/bg/highlight_disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_900"
+                "name": "neutral/neutral_550"
               }
             },
             {
@@ -16954,7 +17068,7 @@
               }
             },
             {
-              "name": "segmented_button/border/enabled",
+              "name": "segmented_button/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -16962,15 +17076,15 @@
               }
             },
             {
-              "name": "segmented_button/border/disabled",
+              "name": "segmented_button/bg/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_650"
+                "name": "neutral/aw/neutral_aw_800"
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/bg/enabled",
+              "name": "segmented_button_radio_item/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -16978,79 +17092,15 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/enabled",
+              "name": "segmented_button_checkbox_item/unselected/text",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "marina/marina_900"
+                "name": "neutral/neutral_250"
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_800"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_700"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/icon/icon",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/icon/disabled",
+              "name": "segmented_button_checkbox_item/unselected/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17058,7 +17108,15 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/red/text/disabled",
+              "name": "segmented_button_checkbox_item/unselected/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/unselected/icon_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17066,263 +17124,15 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/red/bg/hover",
+              "name": "segmented_button_checkbox_item/unselected/border",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "red/red_800"
+                "name": "neutral/neutral_550"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/red/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/red/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "orange/orange_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/orange/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/yellow/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "grass/grass_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grass/bg/disabled",
+              "name": "segmented_button_checkbox_item/unselected/border_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17338,299 +17148,11 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/unselected/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_550"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/unselected/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
               "name": "segmented_button_checkbox_item/unselected/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/emerald/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marengo/marengo_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marengo/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "marina/marina_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/marina/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
               }
             },
             {
@@ -17642,221 +17164,23 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "purple/purple_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/purple/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_900"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_300"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/hover",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_800"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "violet/violet_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/violet/bg/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_800"
-              }
-            },
-            {
               "name": "segmented_button_checkbox_item/unselected/bg/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_850"
+                "name": "neutral/a/neutral_a_0"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/Color",
-              "type": "color",
-              "isAlias": false,
-              "value": "#FFFFFF"
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/enabled",
+              "name": "segmented_button_checkbox_item/red/text",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_800"
+                "name": "red/red_300"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_400"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/icon/disabled",
+              "name": "segmented_button_checkbox_item/red/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17864,7 +17188,15 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/text/disabled",
+              "name": "segmented_button_checkbox_item/red/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/red/icon_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17872,23 +17204,15 @@
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/hover",
+              "name": "segmented_button_checkbox_item/red/border",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_750"
+                "name": "red/red_700"
               }
             },
             {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/active",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_700"
-              }
-            },
-            {
-              "name": "segmented_button_checkbox_item/selected/grey/bg/disabled",
+              "name": "segmented_button_checkbox_item/red/border_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17896,39 +17220,47 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/bg/hover",
+              "name": "segmented_button_checkbox_item/red/bg/enabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_800"
+                "name": "red/red_900"
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/bg/active",
+              "name": "segmented_button_checkbox_item/red/bg/hover",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_750"
+                "name": "red/red_800"
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/bg/disabled",
+              "name": "segmented_button_checkbox_item/red/bg/active",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_850"
+                "name": "red/red_700"
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/text/enabled",
+              "name": "segmented_button_checkbox_item/red/bg/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_250"
+                "name": "neutral/aw/neutral_aw_800"
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/text/disabled",
+              "name": "segmented_button_checkbox_item/orange/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17936,7 +17268,391 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/text/enabled",
+              "name": "segmented_button_checkbox_item/orange/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "orange/orange_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/orange/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "yellow/yellow_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/yellow/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "grass/grass_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grass/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "emerald/emerald_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/emerald/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marengo/marengo_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marengo/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/text",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17944,7 +17660,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/text/disabled",
+              "name": "segmented_button_checkbox_item/marina/text_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17952,23 +17668,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/icon/enabled",
+              "name": "segmented_button_checkbox_item/marina/icon",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17976,7 +17676,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/icon/disabled",
+              "name": "segmented_button_checkbox_item/marina/icon_disabled",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -17984,23 +17684,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/unselected/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_550"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/unselected/border/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_650"
-              }
-            },
-            {
-              "name": "segmented_button_radio_item/selected/border/enabled",
+              "name": "segmented_button_checkbox_item/marina/border",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -18008,7 +17692,655 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/hover",
+              "name": "segmented_button_checkbox_item/marina/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/marina/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "purple/purple_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/purple/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_300"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "violet/violet_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/violet/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/border",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_750"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_700"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/grey/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_450"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/text_invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_invalid_status",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_400"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_450"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/icon_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_350"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/border_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/border_disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_650"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/readonly",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_550"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/invalid",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "red/red_900"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/enabled_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_850"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/hover_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_800"
+              }
+            },
+            {
+              "name": "segmented_button_checkbox_item/neutral/bg/active_outlined",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_750"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_800"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_750"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_850"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_900"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_800"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_700"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/bg/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/text/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/enabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/hover",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/active",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_250"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/disabled",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/hover_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/active_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_300"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/icon/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/neutral_500"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/enabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "marina/marina_700"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/hover_selected",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -18016,7 +18348,7 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/active",
+              "name": "segmented_button_radio_item/border/active_selected",
               "type": "color",
               "isAlias": true,
               "value": {
@@ -18024,11 +18356,19 @@
               }
             },
             {
-              "name": "segmented_button_radio_item/selected/border/disabled",
+              "name": "segmented_button_radio_item/border/disabled",
               "type": "color",
               "isAlias": true,
               "value": {
-                "name": "neutral/neutral_650"
+                "name": "neutral/aw/neutral_aw_800"
+              }
+            },
+            {
+              "name": "segmented_button_radio_item/border/disabled_selected",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_800"
               }
             },
             {
@@ -21990,13 +22330,13 @@
               "value": "#FFFFFF"
             },
             {
-              "name": "node/ksc/counter/border/enabled",
+              "name": "node/ksc/counter/bg/enabled",
               "type": "color",
               "isAlias": false,
               "value": "#FFFFFF"
             },
             {
-              "name": "node/ksc/counter/bg/enabled",
+              "name": "node/ksc/counter/border/enabled",
               "type": "color",
               "isAlias": false,
               "value": "#FFFFFF"
@@ -22212,102 +22552,6 @@
               "value": {
                 "name": "marina/marina_600"
               }
-            },
-            {
-              "name": "licence_card/bg/status/valid",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "emerald/emerald_400"
-              }
-            },
-            {
-              "name": "licence_card/text/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/warning",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "yellow/yellow_400"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_400"
-              }
-            },
-            {
-              "name": "licence_card/bg/status/expired",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "licence_card/text/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_400"
-              }
-            },
-            {
-              "name": "licence_card/text/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
-            },
-            {
-              "name": "licence_card/bg/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_850"
-              }
-            },
-            {
-              "name": "licence_card/border/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_600"
-              }
-            },
-            {
-              "name": "licence_card/icon/enabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_250"
-              }
-            },
-            {
-              "name": "licence_card/icon/critical",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "red/red_400"
-              }
-            },
-            {
-              "name": "licence_card/icon/disabled",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/neutral_500"
-              }
             }
           ]
         }
@@ -22369,19 +22613,19 @@
               "value": "#CB2D254D"
             },
             {
-              "name": "service_transparent",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/a/neutral_a_0"
-              }
-            },
-            {
               "name": "service_caret",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_850"
+              }
+            },
+            {
+              "name": "service_transparent",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/a/neutral_a_0"
               }
             }
           ]
@@ -22412,19 +22656,19 @@
               "value": "#CB2D254D"
             },
             {
-              "name": "service_transparent",
-              "type": "color",
-              "isAlias": true,
-              "value": {
-                "name": "neutral/aw/neutral_aw_0"
-              }
-            },
-            {
               "name": "service_caret",
               "type": "color",
               "isAlias": true,
               "value": {
                 "name": "neutral/neutral_0"
+              }
+            },
+            {
+              "name": "service_transparent",
+              "type": "color",
+              "isAlias": true,
+              "value": {
+                "name": "neutral/aw/neutral_aw_0"
               }
             }
           ]
@@ -22610,84 +22854,6 @@
               "type": "string",
               "isAlias": false,
               "value": "String value"
-            },
-            {
-              "name": "Licence card/Licence number",
-              "type": "string",
-              "isAlias": false,
-              "value": "Licence number"
-            },
-            {
-              "name": "Licence card/License status",
-              "type": "string",
-              "isAlias": false,
-              "value": "License status"
-            },
-            {
-              "name": "Licence card/Remaining",
-              "type": "string",
-              "isAlias": false,
-              "value": "Remaining"
-            },
-            {
-              "name": "Licence card/Remaining value",
-              "type": "string",
-              "isAlias": false,
-              "value": "340 days left"
-            },
-            {
-              "name": "Licence card/Remaining (expires soon)value",
-              "type": "string",
-              "isAlias": false,
-              "value": "10 days left"
-            },
-            {
-              "name": "Licence card/Expiration date",
-              "type": "string",
-              "isAlias": false,
-              "value": "Expiration date"
-            },
-            {
-              "name": "Licence card/Expired",
-              "type": "string",
-              "isAlias": false,
-              "value": "Expired"
-            },
-            {
-              "name": "Licence card/Expiration date value",
-              "type": "string",
-              "isAlias": false,
-              "value": "03/01/2025"
-            },
-            {
-              "name": "Licence card/Activation date",
-              "type": "string",
-              "isAlias": false,
-              "value": "Activation date"
-            },
-            {
-              "name": "Licence card/Activation date value",
-              "type": "string",
-              "isAlias": false,
-              "value": "03/01/2023"
-            },
-            {
-              "name": "Licence card/Term",
-              "type": "string",
-              "isAlias": false,
-              "value": "Term"
-            },
-            {
-              "name": "Licence card/Term value",
-              "type": "string",
-              "isAlias": false,
-              "value": "730 days"
-            },
-            {
-              "name": "Licence card/Expiration date 5",
-              "type": "string",
-              "isAlias": false,
-              "value": "Expiration date"
             }
           ]
         },
@@ -22867,84 +23033,6 @@
               "type": "string",
               "isAlias": false,
               "value": "Внутренняя ошибка сервера"
-            },
-            {
-              "name": "Licence card/Licence number",
-              "type": "string",
-              "isAlias": false,
-              "value": "Номер лицензии"
-            },
-            {
-              "name": "Licence card/License status",
-              "type": "string",
-              "isAlias": false,
-              "value": "Статус лицензии"
-            },
-            {
-              "name": "Licence card/Remaining",
-              "type": "string",
-              "isAlias": false,
-              "value": "Осталось"
-            },
-            {
-              "name": "Licence card/Remaining value",
-              "type": "string",
-              "isAlias": false,
-              "value": "340 дней"
-            },
-            {
-              "name": "Licence card/Remaining (expires soon)value",
-              "type": "string",
-              "isAlias": false,
-              "value": "10 дней"
-            },
-            {
-              "name": "Licence card/Expiration date",
-              "type": "string",
-              "isAlias": false,
-              "value": "Дата окончания"
-            },
-            {
-              "name": "Licence card/Expired",
-              "type": "string",
-              "isAlias": false,
-              "value": "Срок действия лицензи истек"
-            },
-            {
-              "name": "Licence card/Expiration date value",
-              "type": "string",
-              "isAlias": false,
-              "value": "01.03.2025"
-            },
-            {
-              "name": "Licence card/Activation date",
-              "type": "string",
-              "isAlias": false,
-              "value": "Дата активации"
-            },
-            {
-              "name": "Licence card/Activation date value",
-              "type": "string",
-              "isAlias": false,
-              "value": "01.03.2023"
-            },
-            {
-              "name": "Licence card/Term",
-              "type": "string",
-              "isAlias": false,
-              "value": "Срок"
-            },
-            {
-              "name": "Licence card/Term value",
-              "type": "string",
-              "isAlias": false,
-              "value": "730 дней"
-            },
-            {
-              "name": "Licence card/Expiration date 5",
-              "type": "string",
-              "isAlias": false,
-              "value": "Дата окончания"
             }
           ]
         }
